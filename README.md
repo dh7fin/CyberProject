@@ -9,9 +9,9 @@ This project demonstrates how to use Kali Linux and Windows 10 virtual machines 
 - **VirtualBox** with the Host-Only Adapter configuration
 - **Attacker**: Kali Linux Virtual Machine
 - **Victim**: Windows 10 Virtual Machine
-- IPs used:
--Kali: 192.168.56.102
--Windows: 192.168.56.101   
+## IPs used:
+- **Kali**: 192.168.56.102
+- **Windows**: 192.168.56.101   
 
 ## 🔧 Tools Used
 
@@ -22,24 +22,23 @@ This project demonstrates how to use Kali Linux and Windows 10 virtual machines 
 
 ## 🔍 Attack Simulations
 
--HTTP sniffing via GET/POST
--FTP credential capture in plaintext
--ARP Spoofing -> MITM
--Interception via fake login form
+- HTTP sniffing via GET/POST
+- FTP credential capture in plaintext
+- ARP Spoofing -> MITM
+- Interception via fake login form
 
 ## 📸 Screenshots
 
 Images are located in '/images'. Examples include:
 
--VM setup 
--Wireshark traffic capture 
--Spoofed ARP packets
--Captured credetials
-
-
-
-
+- VM setup 
+- Wireshark traffic capture 
+- Spoofed ARP packets
+- Captured credentials
 
 ## 📄 Full Report
+
+You can download and view the full project documentation here:
+[📥 Network_Sniffing_Report.pdf](./Network_Sniffing_Report.pdf)
 
 ## 🛡️ Takeaways****
