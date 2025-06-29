@@ -39,7 +39,7 @@ Images are located in '/images'. Examples include:
 ## 📄 Full Report
 
 You can download and view the full project documentation here:
-[📥 Network_Sniffing_Report.pdf](./Network_Sniffing_Report.pdf)
+[📥 Network_Sniffing_Report.pdf](Network Sniffing and Traffic Analysis.pdf)
 
 ## 🛡️ Takeaways****
 
