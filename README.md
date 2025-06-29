@@ -2,15 +2,41 @@
 
 ## 🧪 Overview
 
-This project demonstrates how to use Kali Linux and Windows 10 virtual machines (VMs) to simulate and investigate real-world network attacks (ARP spoofing, MITM, and packet sniffing). 
+This project demonstrates how to use Kali Linux and Windows 10 virtual machines (VMs) to simulate and investigate real-world network attacks (ARP spoofing, MITM, and packet sniffing). It examines the posibility of capturing private data in unencrypted settings, inclduing usernames, passwords, and GET/POST queries.
 
 ## ⚙️ Lab Setup
 
+- **VirtualBox** with the Host-Only Adapter configuration
+- **Attacker**: Kali Linux Virtual Machine
+- **Victim**: Windows 10 Virtual Machine
+- IPs used:
+    -Kali: 192.168.56.102
+    -Windows: 192.168.56.101   
+
 ## 🔧 Tools Used
+
+- Wireshark
+- Arpspoof
+- Python HTTP Server
+- FileZilla FTP Server
 
 ## 🔍 Attack Simulations
 
+-HTTP sniffing via GET/POST
+-FTP credential capture in plaintext
+-ARP Spoofing -> MITM
+-Interception via fake login form
+
 ## 📸 Screenshots
+
+Images are located in '/images'. Examples include:
+
+-VM setup 
+-Wireshark traffic capture 
+-Spoofed ARP packets
+-Captured credetials
+
+
 
 
 
