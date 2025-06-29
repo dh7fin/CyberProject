@@ -10,8 +10,8 @@ This project demonstrates how to use Kali Linux and Windows 10 virtual machines 
 - **Attacker**: Kali Linux Virtual Machine
 - **Victim**: Windows 10 Virtual Machine
 - IPs used:
-    -Kali: 192.168.56.102
-    -Windows: 192.168.56.101   
+-Kali: 192.168.56.102
+-Windows: 192.168.56.101   
 
 ## 🔧 Tools Used
 
