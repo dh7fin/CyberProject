@@ -42,3 +42,7 @@ You can download and view the full project documentation here:
 [📥 Network_Sniffing_Report.pdf](./Network_Sniffing_Report.pdf)
 
 ## 🛡️ Takeaways****
+
+- Always encrpyt sensitive traffic (HTTPS, SFTP
+- Monitor for unusual ARP activity
+- Use tools like Wireshark for deep traffic inspection
