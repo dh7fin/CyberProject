@@ -52,6 +52,6 @@ You can download and view the full project documentation here:
 
 ## Key Learnings
 - Learned how ARP spoofing operates on a local network
-- Utilised Wireshakr to record and analyse actual HTTP/FTPM packets
+- Utilised Wireshark to record and analyse actual HTTP/FTPM packets
 - Investigated how unencrypted passwords can be intercepted during MITM attacks
 - Acquired practical knowledge of Kali Linux and common offensive tools
