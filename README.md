@@ -29,7 +29,7 @@ This project demonstrates how to use Kali Linux and Windows 10 virtual machines 
 
 ## 📸 Screenshots
 
-Images are located in '/images'. Examples include:
+Images are located in [Images](images). Examples include:
 
 - VM setup 
 - Wireshark traffic capture 
@@ -46,6 +46,6 @@ You can download and view the full project documentation here:
 
 ## 🛡️ Takeaways****
 
-- Always encrpyt sensitive traffic (HTTPS, SFTP
+- Always encrpyt sensitive traffic (HTTPS, SFTP)
 - Monitor for unusual ARP activity
 - Use tools like Wireshark for deep traffic inspection
