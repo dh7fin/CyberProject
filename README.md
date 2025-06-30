@@ -44,7 +44,7 @@ You can download and view the full project documentation here:
 
 
 
-## 🛡️ Takeaways****
+## 🛡️ Takeaways
 
 - Always encrpyt sensitive traffic (HTTPS, SFTP)
 - Monitor for unusual ARP activity
