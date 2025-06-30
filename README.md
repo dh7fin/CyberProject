@@ -1,4 +1,4 @@
-# Interception and Analysis; Simulating Real-World Atrtacks in a Controlled Network
+# Interception and Analysis; Simulating Real-World Attacks in a Controlled Network
 
 ## Overview
 
