@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project demonstrates how to use Kali Linux and Windows 10 virtual machines (VMs) to simulate and investigate real-world network attacks (ARP spoofing, MITM, and packet sniffing). It examines the posibility of capturing private data in unencrypted settings, inclduing usernames, passwords, and GET/POST queries.
+This project demonstrates how to use Kali Linux and Windows 10 virtual machines (VMs) to simulate and investigate real-world network attacks (ARP spoofing, MITM, and packet sniffing). It examines the possibility of capturing private data in unencrypted settings, including usernames, passwords, and GET/POST queries.
 
 ## ⚙️ Lab Setup
 
